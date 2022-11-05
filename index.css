@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.g,.h{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #eee;
+}
+
+#home,#guest{
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #F94F6D;
+    font-size: 90px;
+    background-color: black;
+    width: 117px;
+    height: 120px;
+    top: 125px;
+    left: 355px;
+    border-radius: 5px;
+    line-height: 127px;
+}
+
+button{
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #9AABD8;
+    background-color: #1B244A;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+}
+.reset{
+    position:absolute;
+    top: 360px;
+    height:120px
+}
+
+
+
